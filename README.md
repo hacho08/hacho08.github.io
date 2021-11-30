@@ -1,10 +1,10 @@
-<div align="center">
+
 
   # Jekyll 블로그 시작하기!
 
   Github Page를 활용해 별도의 호스팅 없이 git repository를 이용해 Jekyll 블로그를 시작한 과정을 담아보았습니다.
 
-</div>
+
 
 ## 준비하기
 
