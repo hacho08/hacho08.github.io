@@ -71,5 +71,5 @@ $ bundle lock --add-platform x86_64-linux
 
 **Github의 readme를 꼼꼼히 읽자!!!**
 
-<!-- ReadMe links -->
+
 
