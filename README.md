@@ -18,6 +18,14 @@ Github Page를 활용해 별도의 호스팅 없이 git repository를 이용해 
 `bundle exec jekyll serve` 로 Jekyll serve 실행 후 웹에서 localhost:4000에 접속해서 제가 만든 기본 테마로 된 Jekyll 사이트가 만들어진 것을 확인했습니다.
 
 
+## 적용한 기능
+1. 테마 변경
+2. favicon 및 메인 이미지 적용
+3. post 작성
+4. Google Analytics 적용
+5. 댓글 기능 적용 
+
+
 ## 테마 변경하기
 
 마음에 드는 테마를 고르고 골라 [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) 라는 테마로 하기로 결정하고 로컬로 `git clone` 을 했습니다.
