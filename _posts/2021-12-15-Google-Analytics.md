@@ -5,7 +5,9 @@ date: 2021-12-15 01:14:00 +0900
 categories: [Blogging]
 tags: [Google Analytics]
 math: true
+pin: true
 mermaid: true
+comment: true
 ---
 
 이번 블로그는 [**Google Analytics**](https://analytics.google.com/analytics/web/#/)를 적용해본 과정에 대해 적어보겠습니다!
