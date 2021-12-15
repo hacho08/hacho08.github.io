@@ -89,8 +89,10 @@ layout: default
         {% endif %}
         
         <!---- comments ---->
-        <div style="padding-top:50px"></div>
-        {% include disqus.html %}
+        {% if page.comments %}
+            <div style="padding-top:50px"></div>
+            {% include disqus.html %}
+        {% endif %}
        <!---
         {% if page.comments %}
         <div style="padding-top:50px">
