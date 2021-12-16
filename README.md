@@ -5,7 +5,6 @@
 Github Page를 활용해 별도의 호스팅 없이 git repository를 이용해 Jekyll 블로그를 시작한 과정을 담아보았습니다.
 
 
-
 ## 준비하기
 
 [Jekyll Docs](https://jekyllrb.com/docs/installation/) 를 참고하여 `Ruby`, `RubyGems`, `Jekyll`, 그리고 `Bundler`를 설치 해 주었습니다.
