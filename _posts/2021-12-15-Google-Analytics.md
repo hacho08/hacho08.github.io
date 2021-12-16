@@ -7,7 +7,7 @@ tags: [Google Analytics]
 math: true
 pin: true
 mermaid: true
-comment: true
+comments: true
 ---
 
 이번 블로그는 [**Google Analytics**](https://analytics.google.com/analytics/web/#/)를 적용해본 과정에 대해 적어보겠습니다!
